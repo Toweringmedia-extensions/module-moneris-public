@@ -1,0 +1,20 @@
+{
+  "name": "toweringmedia/module-moneris",
+  "description": "Fully integrated with Hyv\u00e4 React Checkout Tokenized vault payments for faster checkout Admin capture, refund, and void support AVS/CVV fraud-prevention checks No Knockout or RequireJS needed Need checkout implementation help? Explore our Magento development services, Magento maintenance services, and Hyva theme performance services.",
+  "type": "magento2-module",
+  "homepage": "https://toweringmedia.com/moneris-payment-gateway-for-magento-2-hyva-react-checkout",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.1",
+    "magento/framework": ">=103.0"
+  },
+  "support": {
+    "docs": "https://toweringmedia.com/moneris-payment-gateway-for-magento-2-hyva-react-checkout",
+    "source": "https://github.com/Toweringmedia-extensions/module-moneris"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
